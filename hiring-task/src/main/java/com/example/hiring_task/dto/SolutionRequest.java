@@ -12,6 +12,4 @@ import lombok.NoArgsConstructor;
 public class SolutionRequest {
     private String finalQuery;
 
-
-
 }
